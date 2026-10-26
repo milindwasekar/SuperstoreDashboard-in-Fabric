@@ -13,3 +13,5 @@ The solution will demonstrate the end-to-end capabilities of Microsoft Fabric, f
 - Data modeling: Design an appropriate data model based on business requirements and assumptions.
 - Dashboard development: Build interactive reports covering sales, profit, products, categories, regions, and customers.
 - Business insights: Identify Oders,Sales,Profit KPT its trend wrt Previous year , profitability drivers,other important metrics  and areas for improvement.
+
+### SS (https://github.com/milindwasekar/SuperstoreDashboard-in-Fabric/blob/main/image.png)
